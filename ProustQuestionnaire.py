@@ -10,6 +10,7 @@ class ProustQuestionnaire:
     def questionnaire(self):
         
         all = questions = [
+        "it is not the first question. Just say your name"
         "What is your idea of perfect happiness?",
         "What is your greatest fear?",
         "What is the trait you most deplore in yourself?",
